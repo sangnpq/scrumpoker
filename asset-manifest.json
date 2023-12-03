@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/scrumpoker/static/css/main.f855e6bc.css",
+    "main.js": "/scrumpoker/static/js/main.f6c944e1.js",
+    "static/js/787.d3f29cec.chunk.js": "/scrumpoker/static/js/787.d3f29cec.chunk.js",
+    "static/media/logo.svg": "/scrumpoker/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/scrumpoker/index.html",
+    "main.f855e6bc.css.map": "/scrumpoker/static/css/main.f855e6bc.css.map",
+    "main.f6c944e1.js.map": "/scrumpoker/static/js/main.f6c944e1.js.map",
+    "787.d3f29cec.chunk.js.map": "/scrumpoker/static/js/787.d3f29cec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f6c944e1.js"
+  ]
+}
